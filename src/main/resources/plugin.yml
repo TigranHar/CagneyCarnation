@@ -1,0 +1,11 @@
+name: FullBossFight
+version: '${project.version}'
+main: me.cagneycarnation.fullbossfight.FullBossFight
+api-version: 1.18
+description: A minecraft recreation of the Cagney Carnation from a game called cup head
+commands:
+  cuphead:
+    description: Cuphead command
+    usage: /cuphead cabBoss or glove
+
+
